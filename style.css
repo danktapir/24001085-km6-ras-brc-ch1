@@ -1,0 +1,21 @@
+header {
+    background-color: #f1f3ff;
+}
+
+.navbar-item {
+    font-family: "Helvetica";
+    font-weight: 400;
+    color: #000000;
+}
+
+#logo {
+    width: 100px;
+    height: 34px;
+    left: 136px;
+    top: 25px;
+    background: #0d28a6;
+}
+
+.horizontal-spacer {
+    width: 100vh;
+}
