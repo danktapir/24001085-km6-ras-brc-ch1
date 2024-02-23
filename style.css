@@ -16,6 +16,6 @@ header {
     background: #0d28a6;
 }
 
-.horizontal-spacer {
-    width: 100vh;
+#register-btn {
+    margin-left: 10px;
 }
