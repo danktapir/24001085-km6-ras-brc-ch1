@@ -19,3 +19,18 @@ header {
 #register-btn {
     margin-left: 10px;
 }
+
+#list-service-feature {
+    list-style-type: none;
+    padding-left: 0;
+}
+
+#list-service-feature > li {
+    /* margin-top: 15px; */
+    margin-bottom: 15px;
+}
+
+.service-feature {
+    display: inline;
+    margin-left: 10px;
+}
