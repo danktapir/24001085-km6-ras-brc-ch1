@@ -56,3 +56,8 @@ body {
     font-weight: bold;
     width: fit-content;
 }
+
+.testimonial-card {
+    max-width: 540px;
+    background-color: #f1f3ff;
+}
