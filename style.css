@@ -2,8 +2,11 @@ header {
     background-color: #f1f3ff;
 }
 
-.navbar-item {
+body {
     font-family: "Helvetica";
+}
+
+.navbar-item {
     font-weight: 400;
     color: #000000;
 }
@@ -32,4 +35,9 @@ header {
 .service-feature {
     display: inline;
     margin-left: 10px;
+}
+
+#sewa-mobil-card {
+    background-color: #0d28a6;
+    border-radius: 13px;
 }
