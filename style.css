@@ -17,16 +17,12 @@ body {
     background: #0d28a6;
 }
 
-#register-btn {
-    margin-left: 10px;
-}
-
 #list-service-feature {
     list-style-type: none;
     padding-left: 0;
 }
 
-#list-service-feature > li {
+#list-service-feature li {
     margin-bottom: 15px;
 }
 
@@ -35,19 +31,13 @@ body {
     margin-left: 10px;
 }
 
-#sewa-mobil-card {
-    background-color: #0d28a6;
-    border-radius: 13px;
-}
-
 .accordion-item {
-    border-radius: 4px; /* Apply desired border radius */
-    background-color: #fff; /* Remove default hover highlight */
+    border-radius: 4px;
+    background-color: #fff;
 }
 
 .accordion-item .accordion-button:hover,
 .accordion-item .accordion-button:focus {
-    /* Remove focus and hover styles */
     background-color: #fff;
     box-shadow: none;
 }
