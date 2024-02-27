@@ -56,9 +56,3 @@ body {
     font-weight: bold;
     width: fit-content;
 }
-
-.testimonial-item {
-    background-color: #f1f3ff;
-    max-width: 640px;
-    margin: 0 auto;
-}
